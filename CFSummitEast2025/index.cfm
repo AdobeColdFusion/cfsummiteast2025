@@ -45,7 +45,7 @@
                 </a>
                 <a href="https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-functions/functions-a-b/arrayreduceright.html" class="button is-link is-warning is-small" target="_blank">DOCS (array)</a>
                 <a href="https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-functions/functions-l/listreduceright.html" class="button is-link is-warning is-small" target="_blank">DOCS (list)</a>
-                <a href="https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-functions/functions-s/stringreduceright.htm" class="button is-link is-warning is-small" target="_blank">DOCS (string)</a>
+                <a href="https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-functions/functions-s/stringreduceright.html" class="button is-link is-warning is-small" target="_blank">DOCS (string)</a>
             </li>
             <li class="block li">
                 <a href="strictequality.cfm" class="button is-link is-info is-outlined" target="_blank">
